@@ -7,3 +7,5 @@
 + https://angel.co/blog
 
 + https://venturehacks.com/
+
++ https://equityzen.com/knowledge-center/
