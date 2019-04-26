@@ -2,7 +2,7 @@
 
 + http://atrium.co/blog/
 
-+ + https://angel.co/blog
++ https://angel.co/blog
 
 + https://help.wefunder.com/#/books/305001-startup-investing
 
