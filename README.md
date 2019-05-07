@@ -15,3 +15,5 @@
 + https://blog.adioma.com/wp-content/uploads/2013/05/how-funding-works-infographic.png
 
 + github.com/codingforentrepreneurs
+
++ https://pitchbook.com/blog/private-equity-vs-venture-capital-whats-the-difference
