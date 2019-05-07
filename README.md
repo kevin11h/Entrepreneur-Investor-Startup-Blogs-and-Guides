@@ -17,3 +17,5 @@
 + github.com/codingforentrepreneurs
 
 + https://pitchbook.com/blog/private-equity-vs-venture-capital-whats-the-difference
+
++ https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/
