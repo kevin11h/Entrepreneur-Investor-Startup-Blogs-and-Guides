@@ -21,3 +21,5 @@
 + https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/
 
 + https://www.startups.com/library/expert-advice/startup-equity-101
+
++ https://books.google.com/books?id=dqcLkkjmXmQC
