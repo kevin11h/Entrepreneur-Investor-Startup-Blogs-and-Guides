@@ -23,3 +23,5 @@
 + https://www.startups.com/library/expert-advice/startup-equity-101
 
 + https://books.google.com/books?id=dqcLkkjmXmQC
+
++ https://seedcamp.com/resources/how-does-an-early-stage-investor-value-a-startup/
