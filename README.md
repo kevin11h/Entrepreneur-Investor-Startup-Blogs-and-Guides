@@ -25,3 +25,5 @@
 + https://books.google.com/books?id=dqcLkkjmXmQC
 
 + https://seedcamp.com/resources/how-does-an-early-stage-investor-value-a-startup/
+
++ Justin Kan's game of life  https://docs.google.com/document/d/140Hhq9cS_2FUw8LPqtPm4JFZapcIySr60vAyAmMBFGM/edit
