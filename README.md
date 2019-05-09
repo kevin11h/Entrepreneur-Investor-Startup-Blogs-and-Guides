@@ -27,3 +27,7 @@
 + https://seedcamp.com/resources/how-does-an-early-stage-investor-value-a-startup/
 
 + Justin Kan's game of life  https://docs.google.com/document/d/140Hhq9cS_2FUw8LPqtPm4JFZapcIySr60vAyAmMBFGM/edit
+
+Economic Ecosystem (capital)
+
+![](http://reports.weforum.org/impact-investment/wp-content/blogs.dir/27/mp/uploads/pages/images/figure7.jpg)
