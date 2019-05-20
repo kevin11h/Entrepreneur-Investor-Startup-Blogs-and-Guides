@@ -1,8 +1,11 @@
 # Entrepreneur-Investor-Startup-Blogs-and-Guides
 
+## Atrium, Justin Kan, Twitch
 + http://atrium.co/blog/
 
 + https://angel.co/blog
+
++ Justin Kan's game of life  https://docs.google.com/document/d/140Hhq9cS_2FUw8LPqtPm4JFZapcIySr60vAyAmMBFGM/edit
 
 + https://help.wefunder.com/#/books/305001-startup-investing
 
@@ -10,7 +13,12 @@
 
 + https://nextshark.com/how-much-is-your-startup-worth-vc-tim-chang-reveals-what-really-matters/
 
+## Venture Hacks (Angellist) 
++ https://angel.co/blog
+
 + https://venturehacks.com/
+
++ https://venturehacks.com/wordpress/wp-content/uploads/2010/11/Venture-Hacks-Bible.pdf
 
 + https://blog.adioma.com/wp-content/uploads/2013/05/how-funding-works-infographic.png
 
@@ -26,7 +34,7 @@
 
 + https://seedcamp.com/resources/how-does-an-early-stage-investor-value-a-startup/
 
-+ Justin Kan's game of life  https://docs.google.com/document/d/140Hhq9cS_2FUw8LPqtPm4JFZapcIySr60vAyAmMBFGM/edit
++ https://venturehacks.com/wordpress/wp-content/uploads/2010/11/Venture-Hacks-Bible.pdf
 
 Economic Ecosystem (capital)
 
