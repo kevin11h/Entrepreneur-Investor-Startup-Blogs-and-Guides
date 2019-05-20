@@ -39,3 +39,6 @@
 Economic Ecosystem (capital)
 
 ![](http://reports.weforum.org/impact-investment/wp-content/blogs.dir/27/mp/uploads/pages/images/figure7.jpg)
+
+## CB insights
++  www.cbinsights.com/
