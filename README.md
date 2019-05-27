@@ -1,4 +1,4 @@
-# Entrepreneur-Investor-Startup-Blogs-and-Guides-and-Learning-Resrouces
+# Entrepreneur-Investor-Startup-Blogs-and-Guides-and-Learning-Resources
 
 ## Atrium, Justin Kan, Twitch
 + http://atrium.co/blog/
