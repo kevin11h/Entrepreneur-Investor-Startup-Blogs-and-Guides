@@ -1,4 +1,4 @@
-# Entrepreneur-Investor-Startup-Blogs-and-Guides
+# Entrepreneur-Investor-Startup-Blogs-and-Guides-and-Learning-Resrouces
 
 ## Atrium, Justin Kan, Twitch
 + http://atrium.co/blog/
@@ -22,11 +22,19 @@
 
 + https://blog.adioma.com/wp-content/uploads/2013/05/how-funding-works-infographic.png
 
+## Coding
+
 + github.com/codingforentrepreneurs
+
+
+## Pitchbook
++ https://pitchbook.com/
 
 + https://pitchbook.com/blog/private-equity-vs-venture-capital-whats-the-difference
 
+## People
 + https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/
+
 
 + https://www.startups.com/library/expert-advice/startup-equity-101
 
