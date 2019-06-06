@@ -13,6 +13,22 @@
 
 + https://nextshark.com/how-much-is-your-startup-worth-vc-tim-chang-reveals-what-really-matters/
 
+Justin Kan's Library Book Shelf Help  https://twitter.com/justinkan/status/1136160710394671105
+
+`More
+Here’s my ranked reading list from the past year. These books have changed my life!
+
+The 15 Commitments of Conscious Leadership
+Leadership and Self-Deception
+The Score Takes Care of Itself
+The Way to Love
+Playing to Win
+The Power of Now
+Can’t Hurt Me
+Atomic Habits`
+
+
+
 ## Venture Hacks (Angellist) 
 + https://angel.co/blog
 
