@@ -19,12 +19,19 @@ Justin Kan's Library Book Shelf Help  https://twitter.com/justinkan/status/11361
 Here’s my ranked reading list from the past year. These books have changed my life!
 
 The 15 Commitments of Conscious Leadership
+
 Leadership and Self-Deception
+
 The Score Takes Care of Itself
+
 The Way to Love
+
 Playing to Win
+
 The Power of Now
+
 Can’t Hurt Me
+
 Atomic Habits`
 
 
