@@ -1,6 +1,8 @@
 # Entrepreneur-Investor-Startup-Blogs-and-Guides-and-Learning-Resources
 
 ## Atrium, Justin Kan, Twitch
++ https://justinkan.com/feeling-good-justins-program-b77c70437ee2
+
 + http://atrium.co/blog/
 
 + https://angel.co/blog
