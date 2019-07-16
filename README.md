@@ -75,3 +75,6 @@ Economic Ecosystem (capital)
 
 ## CB insights
 +  www.cbinsights.com/
+
+
++ https://www.bdc.ca/en/articles-tools/entrepreneur-toolkit/templates-business-guides/glossary/pages/early-stage-investing.aspx
