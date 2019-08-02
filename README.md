@@ -57,6 +57,8 @@ Atomic Habits`
 
 + https://pitchbook.com/blog/private-equity-vs-venture-capital-whats-the-difference
 
++ https://pitchbook.com/news/articles/the-state-of-us-venture-capital-activity-in-15-charts
+
 ## People
 + https://hired.com/blog/candidates/salary-vs-equity-how-decide-whats-right/
 
