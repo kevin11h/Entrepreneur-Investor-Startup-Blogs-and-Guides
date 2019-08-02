@@ -17,24 +17,24 @@
 
 Justin Kan's Library Book Shelf Help  https://twitter.com/justinkan/status/1136160710394671105
 
-`More
-Here’s my ranked reading list from the past year. These books have changed my life!
+More
+>Here’s my ranked reading list from the past year. These books have changed my life!
+>
+>The 15 Commitments of Conscious Leadership
+>
+>Leadership and Self-Deception
 
-The 15 Commitments of Conscious Leadership
+>The Score Takes Care of Itself
 
-Leadership and Self-Deception
+>The Way to Love
 
-The Score Takes Care of Itself
+>Playing to Win
 
-The Way to Love
+>The Power of Now
 
-Playing to Win
+>Can’t Hurt Me
 
-The Power of Now
-
-Can’t Hurt Me
-
-Atomic Habits`
+>Atomic Habits
 
 
 
@@ -80,3 +80,12 @@ Economic Ecosystem (capital)
 
 
 + https://www.bdc.ca/en/articles-tools/entrepreneur-toolkit/templates-business-guides/glossary/pages/early-stage-investing.aspx
+
+
+## Books
+
+https://www.google.com/search?q=Becoming+a+Venture+Capitalist
+
+## VC
+
+https://en.wikipedia.org/wiki/Venture_capital
