@@ -47,6 +47,8 @@ More
 
 + https://blog.adioma.com/wp-content/uploads/2013/05/how-funding-works-infographic.png
 
++ https://en.wikipedia.org/wiki/Open_Angel_Forum
+
 ## Coding
 
 + github.com/codingforentrepreneurs
@@ -89,3 +91,8 @@ https://www.google.com/search?q=Becoming+a+Venture+Capitalist
 ## VC
 
 https://en.wikipedia.org/wiki/Venture_capital
+
+## Angel Investors
+
+https://medium.com/authority-magazine/lesson-from-a-top-rated-crypto-investor-james-sowers-1b265786244a
+
