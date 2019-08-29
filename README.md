@@ -97,3 +97,7 @@ https://en.wikipedia.org/wiki/Venture_capital
 https://medium.com/authority-magazine/lesson-from-a-top-rated-crypto-investor-james-sowers-1b265786244a
 
 Capital Providers Sources.List : Pension, endowment, fund-of-funds & foundation interest
+
+
+## Dan Lok
+https://www.youtube.com/watch?v=LI2kgz0Y_Ek
