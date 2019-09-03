@@ -100,4 +100,5 @@ Capital Providers Sources.List : Pension, endowment, fund-of-funds & foundation 
 
 
 ## Dan Lok
-https://www.youtube.com/watch?v=LI2kgz0Y_Ek
+1. https://www.youtube.com/watch?v=LI2kgz0Y_Ek
+2. Raising Capital, Financing your business venture, build future https://www.youtube.com/watch?v=bdzfcy1gfr0
