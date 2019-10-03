@@ -102,3 +102,10 @@ Capital Providers Sources.List : Pension, endowment, fund-of-funds & foundation 
 ## Dan Lok
 1. https://www.youtube.com/watch?v=LI2kgz0Y_Ek
 2. Raising Capital, Financing your business venture, build future https://www.youtube.com/watch?v=bdzfcy1gfr0
+
+
+Quora
+https://www.quora.com/How-much-better-are-Tier-1-entrepreneurs-from-those-that-are-one-tier-down
+
+# Seedcamp
+https://seedcamp.com/resources/what-tier-is-your-investor-or-what-to-look-for-in-an-investor/
