@@ -1,5 +1,8 @@
 # Entrepreneur-Investor-Startup-Blogs-and-Guides-and-Learning-Resources
 
+## Andrew Chen - Essayist
+https://andrewchen.co/2018-essay-collection/
+
 ## Atrium, Justin Kan, Twitch
 + https://justinkan.com/feeling-good-justins-program-b77c70437ee2
 
