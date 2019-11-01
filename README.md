@@ -39,7 +39,7 @@ More
 
 >Atomic Habits
 
-
+https://m.atrium.co/rs/342-PEH-456/images/Atrium_FoundersGuidetoUnderstandingInvestors.pdf
 
 ## Venture Hacks (Angellist) 
 + https://angel.co/blog
