@@ -3,7 +3,9 @@
 ## Andrew Chen - Essayist
 https://andrewchen.co/2018-essay-collection/
 
-## Atrium, Justin Kan, Twitch
+## Atrium, Justin Kan, Alumni Twitch
++ https://www.atrium.co/resources/
+
 + https://justinkan.com/feeling-good-justins-program-b77c70437ee2
 
 + http://atrium.co/blog/
