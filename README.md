@@ -117,3 +117,7 @@ https://seedcamp.com/resources/what-tier-is-your-investor-or-what-to-look-for-in
 
 # Mindest = Attitude + Awareness + Action
 https://startupmindset.com/5-reasons-you-dont-need-shark-tank-or-venture-capital-for-your-business/
+
+
+# Atrium Activity And Meetups
+https://www.atrium.co/resources/
