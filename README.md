@@ -2,12 +2,8 @@
 
 # Startup Spirit - Stairway to Stars - Starting Steps
 ## https://biblehub.com/galatians/5-25.htm
-![](https://camo.githubusercontent.com/63c1e016a60af09b55d2a4fd34f96e9d1937ebe7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f35372f62332f38313537623361373662666439323138336631396466363638666539653138352e706e67)
+![ https://github.com/kevin11h/Galatians-5-25-Startup-Spirit-Steps-Stare-Star-Fuel-Fire-Focus-Energy](https://camo.githubusercontent.com/63c1e016a60af09b55d2a4fd34f96e9d1937ebe7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f35372f62332f38313537623361373662666439323138336631396466363638666539653138352e706e67)
 > Since we live by the Spirit, let us keep in step with the Spirit.
-
-
-## Andrew Chen - Essayist
-https://andrewchen.co/2018-essay-collection/
 
 ## Atrium, Justin Kan, Alumni Twitch
 + https://www.atrium.co/resources/
@@ -127,3 +123,10 @@ https://startupmindset.com/5-reasons-you-dont-need-shark-tank-or-venture-capital
 
 # Atrium Activity And Meetups
 https://www.atrium.co/resources/
+
+
+## Andrew Chen - Essayist
+https://andrewchen.co/2018-essay-collection/
+
+## Jason Shen - Aesthete - Athlete - Achieve + Sustain High Performance
+https://www.jasonshen.com/blog/
