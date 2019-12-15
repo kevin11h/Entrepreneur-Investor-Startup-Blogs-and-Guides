@@ -130,3 +130,4 @@ https://andrewchen.co/2018-essay-collection/
 
 ## Jason Shen - Aesthete - Athlete - Achieve + Sustain High Performance
 https://www.jasonshen.com/blog/
+https://www.goodreads.com/book/show/13624344-guide-to-yc
