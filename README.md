@@ -131,3 +131,12 @@ https://andrewchen.co/2018-essay-collection/
 ## Jason Shen - Aesthete - Athlete - Achieve + Sustain High Performance
 https://www.jasonshen.com/blog/
 https://www.goodreads.com/book/show/13624344-guide-to-yc
+
+# King Solomon
+https://hockeystickprinciples.com/king-solomons-wise-advice-startup-founders/
+> “…My heart took delight in all my work,
+And this was the reward for all my labor.
+Yet when I surveyed all that my hands had done
+And what I had toiled to achieve,
+Everything was meaningless, a chasing after the wind;
+Nothing was gained under the sun.” Ecclesiastes 2:10-11
