@@ -132,6 +132,9 @@ https://andrewchen.co/2018-essay-collection/
 https://www.jasonshen.com/blog/
 https://www.goodreads.com/book/show/13624344-guide-to-yc
 
+## Kevin Lu Cap Table
+https://medium.com/the-ouroboros-effect/cap-table-101-b0a9fcec0653
+
 # King Solomon
 https://hockeystickprinciples.com/king-solomons-wise-advice-startup-founders/
 > “…My heart took delight in all my work,
@@ -140,3 +143,4 @@ Yet when I surveyed all that my hands had done
 And what I had toiled to achieve,
 Everything was meaningless, a chasing after the wind;
 Nothing was gained under the sun.” Ecclesiastes 2:10-11
+
