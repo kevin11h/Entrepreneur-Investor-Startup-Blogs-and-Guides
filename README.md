@@ -148,3 +148,5 @@ And what I had toiled to achieve,
 Everything was meaningless, a chasing after the wind;
 Nothing was gained under the sun.” Ecclesiastes 2:10-11
 
+
+![](https://neilpatel.com/wp-content/uploads/2017/08/pngbase64be89479a8e38b9d.png)
