@@ -1,5 +1,5 @@
 # Entrepreneur-Investor-Startup-Blogs-and-Guides-and-Learning-Resources
-
+# https://www.visualcapitalist.com/57-startups-unicorns-in-2017/
 
 # Startup Spirit - Stairway to Stars - Starting Steps
 ## https://biblehub.com/galatians/5-25.htm
