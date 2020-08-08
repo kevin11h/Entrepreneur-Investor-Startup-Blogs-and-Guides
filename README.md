@@ -1,6 +1,9 @@
 # Entrepreneur-Investor-Startup-Blogs-and-Guides-and-Learning-Resources
 # https://www.visualcapitalist.com/57-startups-unicorns-in-2017/
 
+# Atrium Term Sheet Primer
+## https://github.com/kevin11h/Entrepreneur-Investor-Startup-Blogs-and-Guides/blob/master/Atrium_TermSheetPrimer.pdf
+
 # Startup Spirit - Stairway to Stars - Starting Steps
 ## https://biblehub.com/galatians/5-25.htm
 ![ https://github.com/kevin11h/Galatians-5-25-Startup-Spirit-Steps-Stare-Star-Fuel-Fire-Focus-Energy](https://camo.githubusercontent.com/63c1e016a60af09b55d2a4fd34f96e9d1937ebe7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f35372f62332f38313537623361373662666439323138336631396466363638666539653138352e706e67)
