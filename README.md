@@ -1,5 +1,7 @@
+# Mt. 25 10X 5X 2X Investors Temporary Stewardship Wise Manager / Management
+https://www.youtube.com/watch?v=rk6kob5P3VQ&ab_channel=Christ%E2%80%99sCommissionFellowship
 # Entrepreneur-Investor-Startup-Blogs-and-Guides-and-Learning-Resources
-# https://www.visualcapitalist.com/57-startups-unicorns-in-2017/
+## https://www.visualcapitalist.com/57-startups-unicorns-in-2017/
 
 # Atrium Term Sheet Primer
 ## https://github.com/kevin11h/Entrepreneur-Investor-Startup-Blogs-and-Guides/blob/master/Atrium_TermSheetPrimer.pdf
