@@ -2,7 +2,7 @@
 # https://www.youtube.com/watch?v=rk6kob5P3VQ&ab_channel=Christ%E2%80%99sCommissionFellowship
 # Entrepreneur-Investor-Startup-Blogs-and-Guides-and-Learning-Resources
 ## https://www.visualcapitalist.com/57-startups-unicorns-in-2017/
-
+# https://www.entrepreneur.com/article/367052
 # Atrium Term Sheet Primer
 ## https://github.com/kevin11h/Entrepreneur-Investor-Startup-Blogs-and-Guides/blob/master/Atrium_TermSheetPrimer.pdf
 # https://github.com/kevin11h/GGV-Capital-Donations https://nextbn.ggvc.com/engage/
