@@ -164,3 +164,5 @@ Nothing was gained under the sun.” Ecclesiastes 2:10-11
 
 # Onboarding Guide Lines Playbook by Sequoia Seed & Series A+ 
 https://www.sequoiacap.com/article/the-strategic-value-of-onboarding/
+# 1. COINVOICE wallet + address book
+
